@@ -1,4 +1,4 @@
-# GEE
-From google earth engine course summer 2023  
-Репозиторий под коды с заданий курса
-1. Brumadinho - исследуем как изменилось обстановка после прорыва дамбы
+# Google Earht Engine (GEE)
+*Here some scripts for analizing and visualizing satalite data using Google Earth Engine*
+*Аналитика и визуализация пространственных спутниковых данных с помощью платформы Google Earth Engine*
+
